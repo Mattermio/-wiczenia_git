@@ -1,1 +1,1 @@
-Od początku lat 90. XX wieku CVS jest wykorzystywany jako narzędziepracy grupowej w wielu projektach programistycznych, których współpraca opiera się na wykorzystaniu internetu - są to m.in całe systemy operacyjne takie jak OpenBSD i NetBSD.
+Zmiana zawartości pliku
